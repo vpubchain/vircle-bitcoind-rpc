@@ -1,6 +1,6 @@
 {
   "name": "vircle-bitcoind-rpc",
-  "description": "Vpub Client Library to connect to Vpub Core via RPC",
+  "description": "Vircle Client Library to connect to Vircle Core via RPC",
   "version": "0.7.0",
   "author": {
     "name": "Stephen Pair",
